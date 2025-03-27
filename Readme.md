@@ -1,4 +1,4 @@
-# Computer Vision Projects Repository
+# Computer Vision Projects
 
 Welcome to the **Computer Vision Projects Repository**! This repository contains innovative projects leveraging computer vision and AI techniques to create interactive and practical applications.(developed by inspiring from others projects)
 
@@ -40,35 +40,8 @@ The Virtual Calculator combines **hand gesture recognition** with **AI analysis*
 
     To get started with these projects, clone the repository to your local machine using the following commands:
     ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-
----
-
-# Script to generate README.md for the Computer Vision Repository
-
-# Content of the README file
-readme_content = """
-# Computer Vision Projects Repository
-
-Welcome to the **Computer Vision Projects Repository**! This repository contains innovative projects leveraging computer vision and AI techniques to create interactive and practical applications.
-
----
-
-## Projects Included
-
-### 1. Eye-Controlled Mouse
-This project uses **real-time eye tracking** to control the mouse pointer on your computer screen. The application identifies eye movements to move the cursor and detects blinks to simulate mouse clicks.
-
----
-
-### 2. Virtual Keyboard
-The Virtual Keyboard project allows users to type using their hands and gestures instead of a physical keyboard. It employs **hand tracking** and **gesture detection** to enable seamless typing.
-
----
-
-### 3. Virtual Calculator
-The Virtual Calculator combines **hand gesture recognition** with **AI analysis** to let users draw mathematical equations in real-time. The drawn equations are processed and solved using Google's **Generative AI**.
+     git clone <repository_url>
+     cd <repository_folder>
 
 ---
 
