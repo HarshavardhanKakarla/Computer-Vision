@@ -1,0 +1,58 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+*.env
+.venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Images and outputs
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.mp4
+*.avi
+
+# Cache files
+.cache/
+*.pickle
+*.pkl
+
+# Streamlit-specific files
+.streamlit/
+
+# Node modules (if you happen to use Node.js)
+node_modules/
+
+# Dependency files
+requirements.txt.lock
+yarn.lock
+package-lock.json
