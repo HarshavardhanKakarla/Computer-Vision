@@ -55,8 +55,8 @@ This project can be modified by removing google api(AI) section and can be devel
 
     To get started, clone this repository to your local machine using the following commands:
     ```bash
-git clone <repository_url>
-cd <repository_folder>
+    git clone <repository_url>
+    cd <repository_folder>
 
 ---
 
