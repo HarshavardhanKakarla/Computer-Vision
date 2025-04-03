@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pillow
+streamlit
+
+-- for further
+
+matplotlib
+tensorflow
+scikit-learn
