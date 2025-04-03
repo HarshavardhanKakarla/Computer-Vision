@@ -3,3 +3,4 @@ mediapipe
 numpy
 pillow
 streamlit
+cvzone
