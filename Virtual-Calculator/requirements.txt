@@ -6,3 +6,4 @@ streamlit
 matplotlib
 google-generativeai
 streamlit-extras
+dotenv
