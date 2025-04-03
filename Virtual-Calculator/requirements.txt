@@ -3,9 +3,6 @@ mediapipe
 numpy
 pillow
 streamlit
-
--- for further
-
 matplotlib
-tensorflow
-scikit-learn
+google-generativeai
+
