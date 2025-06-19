@@ -35,6 +35,21 @@ The Virtual Calculator combines **hand gesture recognition** with **AI analysis*
 - Real-time blending of the canvas with the webcam feed.
 
 ---
+### 4 . Virtual Canvas: Hand-Gesture-Based Drawing Board
+
+A computer-vision-powered virtual whiteboard that lets you draw mid-air using hand gestures! Built using OpenCV and MediaPipe, this interactive canvas transforms your webcam into a smart drawing tool — no mouse, stylus, or touchscreen required.
+
+**Features**
+
+- Real-time hand tracking using MediaPipe Hands
+- Draw on a virtual canvas by gesturing with fingers
+- Switch between tools (pen, eraser, color) using intuitive gestures
+- Adjustable thickness and color selection
+- Save your virtual artwork as an image
+- Designed as a lightweight and accessible alternative to physical whiteboards
+
+
+---
 
 ## Clone Repository
 
