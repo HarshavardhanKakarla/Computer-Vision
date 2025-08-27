@@ -1,0 +1,15 @@
+# Ignore Streamlit secrets (contains API keys)
+.streamlit/secrets.toml
+
+# Ignore dotenv files (if you use them for API keys)
+.env
+.env.*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
