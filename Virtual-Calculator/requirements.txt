@@ -1,9 +1,0 @@
-opencv-python
-mediapipe
-numpy
-pillow
-streamlit
-matplotlib
-google-generativeai
-streamlit-extras
-dotenv
