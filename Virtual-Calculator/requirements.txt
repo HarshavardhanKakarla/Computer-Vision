@@ -1,9 +1,9 @@
 mediapipe==0.10.21
-numpy==2.3.2
-opencv_contrib_python==4.11.0.86
-opencv_python==4.8.0.74
-Pillow==11.3.0
-protobuf==6.32.0
+numpy==1.26.4
+opencv-python==4.8.0.74
+opencv-contrib-python==4.8.0.74
+Pillow==10.3.0
+protobuf==4.25.3
 python-dotenv==1.1.1
 streamlit==1.42.2
-streamlit_extras==0.7.6
+streamlit-extras==0.4.0
