@@ -2,10 +2,10 @@ import os
 import cv2
 import PIL
 import numpy as np
-import google.generativeai as genai
+import google.genai as genai
 import streamlit as st
 from streamlit_extras.add_vertical_space import add_vertical_space
-from mediapipe.python.solutions import hands, drawing_utils
+from mediapipe.solutions import hands, drawing_utils
 from warnings import filterwarnings
 import time
 
@@ -186,3 +186,4 @@ try:
 except Exception as e:
     add_vertical_space(5)
     st.markdown(f'<h5 style="text-position:center;color:orange;">{e}</h5>', unsafe_allow_html=True)
+
