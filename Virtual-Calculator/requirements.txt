@@ -6,4 +6,4 @@ protobuf==4.25.3
 python-dotenv==1.1.1
 streamlit==1.42.2
 streamlit-extras==0.4.0
-google-generativeai
+google-genai
